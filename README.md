@@ -2,7 +2,7 @@
 
 ## These are some Shell Programs that I found out to be really enojoyable while solving!
 
-##List -
+## List -
 
 ## q_1) Write a shell program for the following operations: a. Given an input file which contains 15 student names, create separate directories for each student (Directory name is same as the student’s name). b. Create a shell file inside each directory with the student’s name. c. Each shell file should contain the hashbang statement and also include a statement for printing the corresponding student name. d. Assign file permissions(executable) to each of these shell files and execute all of them in sequence to get the final output. e. Display the files and directories inside the parent working directory.
 
